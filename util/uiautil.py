@@ -70,3 +70,4 @@ def click_button(element):
 
 if __name__ == '__main__':
     __init()
+    uia = __uia
